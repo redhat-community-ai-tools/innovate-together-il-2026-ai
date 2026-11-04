@@ -4,7 +4,10 @@ Practical takeaways from the **AI track** at Innovate Together / OpenShift Commo
 
 Most conference talks leave you with slides and a vague “we should look into that.” This pack is different: install a **markdown-only** agent skill (Cursor, Claude Code, or Codex), describe your environment, and get concrete borrow ideas, open-source repos, contribution paths, and official Red Hat product docs tied to what you heard on stage.
 
-**Non-engineers:** use the [GitHub Pages agenda](https://redhat-community-ai-tools.github.io/innovate-together-il-2026-ai/) (live after the repo is published) and share the [skill handoff](docs/skill.md) with your developers.
+**Non-engineers:** use the agenda site and share the [skill handoff](docs/skill.md) with your developers.
+
+- **Internal (GitLab Pages):** after CI runs on `main`, open **Settings → Pages** in [qe-ds/innovate-together-il-2026-ai](https://gitlab.cee.redhat.com/qe-ds/innovate-together-il-2026-ai) for the URL.
+- **Public (GitHub Pages):** [redhat-community-ai-tools.github.io/innovate-together-il-2026-ai](https://redhat-community-ai-tools.github.io/innovate-together-il-2026-ai/) (live after the public GitHub publish).
 
 ## Security first
 

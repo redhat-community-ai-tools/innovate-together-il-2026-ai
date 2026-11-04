@@ -4,6 +4,7 @@
 *.pptx
 *.pdf
 _site/
+public/
 .jekyll-cache/
 .bundle/
 vendor/
