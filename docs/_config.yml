@@ -1,0 +1,6 @@
+title: Innovate Together IL 2026 — AI Track
+description: Agenda, talk summaries, and agent-skill handoff for the AI track.
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+  - jekyll-remote-theme
+markdown: kramdown

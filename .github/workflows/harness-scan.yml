@@ -1,0 +1,30 @@
+name: harness-scan
+
+on:
+  pull_request:
+    paths:
+      - "skills/**"
+      - ".claude-plugin/**"
+      - ".github/workflows/harness-scan.yml"
+  push:
+    branches: [main]
+    paths:
+      - "skills/**"
+      - ".claude-plugin/**"
+
+permissions:
+  contents: read
+
+jobs:
+  security:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: astral-sh/setup-uv@v5
+
+      - name: Scan repo harness (security)
+        run: uvx harness-eval harness-security . --fail-on-error
+
+      - name: Scan repo harness (lint)
+        run: uvx harness-eval harness-lint . --fail-on-error

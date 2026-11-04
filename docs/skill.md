@@ -1,0 +1,49 @@
+---
+layout: default
+title: Agent skill handoff
+---
+
+# Agent skill — what it is and how to share it
+
+## Who this is for
+
+**You (non-engineer / manager):** share this page + the repo link with developers.
+
+**Developers:** install the skill in Cursor, Claude Code, or Codex so the agent can answer “what from the AI track applies to *our* repo?”
+
+## What it’s good for
+
+- Matching your project to the right talks
+- Finding open-source repos and contribution paths from the sessions
+- Linking official Red Hat product documentation (not a sales pitch)
+- Grounding follow-up work in abstracts and (when available) slide outlines
+
+## Security (read this)
+
+The skill is **markdown only** — no scripts, hooks, or MCP servers. Review [TRUST.md](https://github.com/redhat-community-ai-tools/innovate-together-il-2026-ai/blob/main/TRUST.md) before installing. Prefer the official `redhat-community-ai-tools` repository.
+
+## 3-step handoff to a developer
+
+1. Send them: https://github.com/redhat-community-ai-tools/innovate-together-il-2026-ai
+2. Ask them to read `TRUST.md`, then follow install steps in the README (symlink for Cursor/Codex, or Claude plugin marketplace).
+3. In their agent chat: *“Using the Innovate Together IL AI skill, look at this repo and suggest which talks and projects we should borrow from.”*
+
+## Install (short)
+
+```bash
+git clone https://github.com/redhat-community-ai-tools/innovate-together-il-2026-ai.git
+cd innovate-together-il-2026-ai
+
+# Cursor (project)
+mkdir -p /path/to/project/.cursor/skills
+ln -s "$(pwd)/skills/innovate-together-il-ai" \
+  /path/to/project/.cursor/skills/innovate-together-il-ai
+
+# Claude Code
+claude plugin marketplace add https://github.com/redhat-community-ai-tools/innovate-together-il-2026-ai
+claude plugin install innovate-together-il-ai
+```
+
+Full details: [README](https://github.com/redhat-community-ai-tools/innovate-together-il-2026-ai#install-the-skill).
+
+[← Back to agenda](index.md)

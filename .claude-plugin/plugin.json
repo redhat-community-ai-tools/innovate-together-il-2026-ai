@@ -1,0 +1,19 @@
+{
+  "name": "innovate-together-il-ai",
+  "displayName": "Innovate Together IL AI Takeaways",
+  "version": "0.1.0",
+  "description": "Match your project to Innovate Together Israel 2026 AI-track talks, repos, and docs. Markdown-only — no scripts, hooks, or MCP.",
+  "author": {
+    "name": "Hofni Gartner"
+  },
+  "repository": "https://github.com/redhat-community-ai-tools/innovate-together-il-2026-ai",
+  "license": "Apache-2.0",
+  "keywords": [
+    "conference",
+    "openshift-ai",
+    "skills",
+    "takeaways",
+    "israel",
+    "innovate-together"
+  ]
+}
