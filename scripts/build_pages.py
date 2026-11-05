@@ -140,7 +140,9 @@ def page(title: str, tagline: str, body_html: str, rel_prefix: str = "") -> str:
     <a href="{rel_prefix}speakers.html">Speakers</a>
     <a href="{rel_prefix}skill.html">Skill handoff</a>
     <a href="https://gitlab.cee.redhat.com/qe-ds/innovate-together-il-2026-ai/-/blob/main/README.md">GitLab README</a>
-    <a href="https://gitlab.cee.redhat.com/qe-ds/innovate-together-il-2026-ai/-/blob/main/README.md#install-the-skill">Install</a>
+    <a href="https://github.com/redhat-community-ai-tools/innovate-together-il-2026-ai#readme">GitHub README</a>
+    <a href="https://gitlab.cee.redhat.com/qe-ds/innovate-together-il-2026-ai/-/blob/main/README.md#install-the-skill">Install (GitLab)</a>
+    <a href="https://github.com/redhat-community-ai-tools/innovate-together-il-2026-ai#install-the-skill">Install (GitHub)</a>
   </nav>
   <section class="page-header">
     <h1 class="project-name">Innovate Together IL 2026 — AI Track</h1>

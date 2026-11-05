@@ -11,6 +11,6 @@ Hybrid inference strategy: AI gateway, validated model catalog, and high-perform
 
 **Repos / docs:** [llm-d](https://github.com/llm-d/llm-d) · [vLLM](https://github.com/vllm-project/vllm) · [OpenShift AI docs](https://docs.redhat.com/en/documentation/red_hat_openshift_ai)
 
-**Agent detail:** [talk reference](https://gitlab.cee.redhat.com/qe-ds/innovate-together-il-2026-ai/-/blob/main/skills/innovate-together-il-ai/references/talks/scalable-cost-efficient-ai-strategy.md) · [Skill handoff](../skill.md)
+**Agent detail:** [talk reference (GitLab)](https://gitlab.cee.redhat.com/qe-ds/innovate-together-il-2026-ai/-/blob/main/skills/innovate-together-il-ai/references/talks/scalable-cost-efficient-ai-strategy.md) · [talk reference (GitHub)](https://github.com/redhat-community-ai-tools/innovate-together-il-2026-ai/blob/main/skills/innovate-together-il-ai/references/talks/scalable-cost-efficient-ai-strategy.md) · [Skill handoff](../skill.md)
 
 [← Agenda](../index.md)

@@ -5,7 +5,7 @@ title: Speakers
 
 # Speakers
 
-LinkedIn links are published only when provided. Canonical list for the agent skill: [speakers.md in the repo](https://gitlab.cee.redhat.com/qe-ds/innovate-together-il-2026-ai/-/blob/main/skills/innovate-together-il-ai/references/speakers.md).
+LinkedIn links are published only when provided. Canonical list for the agent skill: [speakers.md (GitLab)](https://gitlab.cee.redhat.com/qe-ds/innovate-together-il-2026-ai/-/blob/main/skills/innovate-together-il-ai/references/speakers.md) · [speakers.md (GitHub)](https://github.com/redhat-community-ai-tools/innovate-together-il-2026-ai/blob/main/skills/innovate-together-il-ai/references/speakers.md).
 
 | Name | Talk(s) | LinkedIn | GitHub |
 |------|---------|----------|--------|

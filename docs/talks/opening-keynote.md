@@ -11,6 +11,6 @@ Resilient, secure platforms that accelerate AI innovation without compromising p
 
 **Docs:** [OpenShift](https://docs.openshift.com/) · [OpenShift AI](https://www.redhat.com/en/technologies/cloud-computing/openshift/ai)
 
-**Agent detail:** [talk reference](https://gitlab.cee.redhat.com/qe-ds/innovate-together-il-2026-ai/-/blob/main/skills/innovate-together-il-ai/references/talks/opening-keynote.md) · [Skill handoff](../skill.md)
+**Agent detail:** [talk reference (GitLab)](https://gitlab.cee.redhat.com/qe-ds/innovate-together-il-2026-ai/-/blob/main/skills/innovate-together-il-ai/references/talks/opening-keynote.md) · [talk reference (GitHub)](https://github.com/redhat-community-ai-tools/innovate-together-il-2026-ai/blob/main/skills/innovate-together-il-ai/references/talks/opening-keynote.md) · [Skill handoff](../skill.md)
 
 [← Agenda](../index.md)

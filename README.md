@@ -6,8 +6,8 @@ Most conference talks leave you with slides and a vague “we should look into t
 
 **Non-engineers:** use the agenda site and share the [skill handoff](docs/skill.md) with your developers.
 
-- **Internal (GitLab Pages):** https://qe-ds.pages.redhat.com/innovate-together-il-2026-ai — agenda site; install steps live in this README.
-- **Public (GitHub Pages):** [redhat-community-ai-tools.github.io/innovate-together-il-2026-ai](https://redhat-community-ai-tools.github.io/innovate-together-il-2026-ai/) (live after the public GitHub publish).
+- **Internal (GitLab Pages):** https://qe-ds.pages.redhat.com/innovate-together-il-2026-ai — links to both GitLab and GitHub README/install.
+- **Public (GitHub Pages):** https://redhat-community-ai-tools.github.io/innovate-together-il-2026-ai/ (same docs tree; live after the public GitHub publish).
 
 ## Security first
 

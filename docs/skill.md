@@ -21,23 +21,39 @@ title: Agent skill handoff
 
 ## Security (read this)
 
-The skill is **markdown only** — no scripts, hooks, or MCP servers. Review [TRUST.md](https://gitlab.cee.redhat.com/qe-ds/innovate-together-il-2026-ai/-/blob/main/TRUST.md) before installing.
+The skill is **markdown only** — no scripts, hooks, or MCP servers. Review TRUST.md before installing:
+
+- [TRUST.md on GitLab](https://gitlab.cee.redhat.com/qe-ds/innovate-together-il-2026-ai/-/blob/main/TRUST.md)
+- [TRUST.md on GitHub](https://github.com/redhat-community-ai-tools/innovate-together-il-2026-ai/blob/main/TRUST.md)
 
 ## 3-step handoff to a developer
 
-1. Send them the repo: https://gitlab.cee.redhat.com/qe-ds/innovate-together-il-2026-ai  
-   and the [README install section](https://gitlab.cee.redhat.com/qe-ds/innovate-together-il-2026-ai/-/blob/main/README.md#install-the-skill).
-2. Ask them to read `TRUST.md`, then follow install steps in the README (symlink for Cursor/Codex; Claude plugin marketplace after public GitHub publish).
+1. Send them a repo link (whichever is available to them):
+   - Internal: https://gitlab.cee.redhat.com/qe-ds/innovate-together-il-2026-ai
+   - Public: https://github.com/redhat-community-ai-tools/innovate-together-il-2026-ai  
+   and the README install section ([GitLab](https://gitlab.cee.redhat.com/qe-ds/innovate-together-il-2026-ai/-/blob/main/README.md#install-the-skill) · [GitHub](https://github.com/redhat-community-ai-tools/innovate-together-il-2026-ai#install-the-skill)).
+2. Ask them to read `TRUST.md`, then follow install steps in the README (symlink for Cursor/Codex, or Claude plugin marketplace from the GitHub URL when published).
 3. In their agent chat: *“Using the Innovate Together IL AI skill, look at this repo and suggest which talks and projects we should borrow from.”*
 
 ## Install (short)
 
-Clone from **GitLab** (internal source of truth for now):
+**GitLab (internal):**
 
 ```bash
 git clone git@gitlab.cee.redhat.com:qe-ds/innovate-together-il-2026-ai.git
 cd innovate-together-il-2026-ai
+```
 
+**GitHub (public):**
+
+```bash
+git clone https://github.com/redhat-community-ai-tools/innovate-together-il-2026-ai.git
+cd innovate-together-il-2026-ai
+```
+
+Then symlink (either clone):
+
+```bash
 # Cursor (project)
 mkdir -p /path/to/project/.cursor/skills
 ln -s "$(pwd)/skills/innovate-together-il-ai" \
@@ -47,8 +63,12 @@ ln -s "$(pwd)/skills/innovate-together-il-ai" \
 mkdir -p /path/to/project/.agents/skills
 ln -s "$(pwd)/skills/innovate-together-il-ai" \
   /path/to/project/.agents/skills/innovate-together-il-ai
+
+# Claude Code (GitHub marketplace URL when the public repo is live)
+claude plugin marketplace add https://github.com/redhat-community-ai-tools/innovate-together-il-2026-ai
+claude plugin install innovate-together-il-ai
 ```
 
-Full details (all install options): [README — Install the skill](https://gitlab.cee.redhat.com/qe-ds/innovate-together-il-2026-ai/-/blob/main/README.md#install-the-skill).
+Full details: [Install on GitLab README](https://gitlab.cee.redhat.com/qe-ds/innovate-together-il-2026-ai/-/blob/main/README.md#install-the-skill) · [Install on GitHub README](https://github.com/redhat-community-ai-tools/innovate-together-il-2026-ai#install-the-skill).
 
 [← Back to agenda](index.md)
