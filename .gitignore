@@ -5,6 +5,9 @@
 *.pdf
 _site/
 public/
+# Ignore new local scratch under testing/. Tracked suite files stay versioned
+# (added with `git add -f`). To commit a new scenario: `git add -f testing/<file>`.
+testing/
 .jekyll-cache/
 .bundle/
 vendor/

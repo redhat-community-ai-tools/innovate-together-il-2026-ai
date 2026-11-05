@@ -14,6 +14,7 @@ title: Agent skill handoff
 ## What it’s good for
 
 - Matching your project to the right talks
+- Briefing the whole AI track or specific sessions (for people who missed talks or need a quick recap)
 - Finding open-source repos and contribution paths from the sessions
 - Linking official Red Hat product documentation (not a sales pitch)
 - Grounding follow-up work in abstracts and (when available) slide outlines

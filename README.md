@@ -74,7 +74,15 @@ After install, ask in your agent chat. Short examples:
 
 > Using the Innovate Together IL AI skill: we need confidential inference for a regulated workload. Which talk, docs, and upstream projects apply?
 
-The skill matches your context to talk notes under `skills/innovate-together-il-ai/references/`.
+**Brief on the whole AI track**
+
+> Using the Innovate Together IL AI skill, give me a short brief on the entire AI track — what the day covers and which three sessions matter most if I care about production OpenShift AI.
+
+**Brief on a specific session**
+
+> Using the Innovate Together IL AI skill, brief me on the harness-eval / agent harness safety talk: summary, takeaways, and how to try it afterward.
+
+The skill matches your context to talk notes under `skills/innovate-together-il-ai/references/` (project match, full-event brief, or session brief).
 
 ## What’s inside
 

@@ -2,25 +2,24 @@
 
 - **Time:** 13:10 (15 min)
 - **Speakers:** Alex Sokolov (Senior Solution Architect, Matrix) — guest talk
-- **Slides:** Coming soon
+- **Status:** pending materials (stub)
 
 ## Abstract
 
-Guest session. Detailed abstract was not in the shared CFP sheet at pack creation time. Fill from speaker materials when available. Do not invent claims about Matrix products or customer deployments.
+Guest session. Detailed abstract was not in the shared CFP sheet at pack creation time. **Do not invent Matrix product names, customer deployments, or metrics.**
 
-## Takeaways to borrow
+## What to listen for (provisional only)
 
-- Likely themes: on-prem / smaller models, cost and sovereignty vs large cloud LLMs
-- Confirm details from slides before recommending architecture
+- On-prem / smaller models vs large cloud LLMs
+- Cost and sovereignty tradeoffs
+- When a smaller model is “good enough” for enterprise tasks
+
+Confirm from slides before recommending architecture.
 
 ## Repos & docs
 
-- OpenShift AI (on-prem enterprise AI platform context): https://docs.redhat.com/en/documentation/red_hat_openshift_ai
-- Speaker-specific links: TBD
-
-## Contribution opportunities
-
-TBD
+- OpenShift AI (on-prem enterprise AI platform context only): https://docs.redhat.com/en/documentation/red_hat_openshift_ai
+- Speaker-specific links: none until materials land
 
 ## Try this in your environment
 

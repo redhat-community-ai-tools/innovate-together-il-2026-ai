@@ -2,24 +2,20 @@
 
 - **Time:** 12:30 (20 min)
 - **Speakers:** TBD
-- **Slides:** Coming soon
+- **Status:** pending materials (stub)
 
 ## Abstract
 
-Agenda lists a customer case study slot. Speaker and abstract will be added when confirmed. Do not invent customer names, metrics, or architectures.
+Agenda lists a customer case study slot. Speaker and abstract will be added when confirmed. **Do not invent customer names, metrics, or architectures.**
 
-## Takeaways to borrow
+## What to listen for (provisional only)
 
-- Wait for published materials
-- When available: extract reusable patterns (not one-off customer specifics)
+- Reusable patterns (platform choices, operating model) vs one-off customer specifics
+- Constraints that match your environment (air-gap, regulated, scale)
 
 ## Repos & docs
 
-TBD
-
-## Contribution opportunities
-
-TBD
+None until the case study is named and materials are published.
 
 ## Try this in your environment
 
