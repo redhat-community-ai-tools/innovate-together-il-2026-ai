@@ -9,7 +9,9 @@ title: AI Track Agenda
 
 Take something practical home: browse the agenda below, then send your developers the [agent skill handoff](skill.md).
 
-[Register](https://reg.experiences.redhat.com/flow/redhat/4804050/rhexpressregistrationapp/page/expressregistration) · [GitHub repo](https://github.com/redhat-community-ai-tools/innovate-together-il-2026-ai) · [Trust & security](https://github.com/redhat-community-ai-tools/innovate-together-il-2026-ai/blob/main/TRUST.md) · [Speakers](speakers.md)
+**Start here for install:** [GitLab README](https://gitlab.cee.redhat.com/qe-ds/innovate-together-il-2026-ai/-/blob/main/README.md) · [Install the skill](https://gitlab.cee.redhat.com/qe-ds/innovate-together-il-2026-ai/-/blob/main/README.md#install-the-skill)
+
+[Register](https://reg.experiences.redhat.com/flow/redhat/4804050/rhexpressregistrationapp/page/expressregistration) · [GitLab repo](https://gitlab.cee.redhat.com/qe-ds/innovate-together-il-2026-ai) · [Trust & security](https://gitlab.cee.redhat.com/qe-ds/innovate-together-il-2026-ai/-/blob/main/TRUST.md) · [Speakers](speakers.md)
 
 ## Morning
 
@@ -36,4 +38,4 @@ Take something practical home: browse the agenda below, then send your developer
 
 ## For developers
 
-Install the **markdown-only** takeaway skill so an IDE agent can map *your* stack to these talks: [How to share the skill](skill.md).
+Install the **markdown-only** takeaway skill so an IDE agent can map *your* stack to these talks: [How to share the skill](skill.md) · full steps in the [README install section](https://gitlab.cee.redhat.com/qe-ds/innovate-together-il-2026-ai/-/blob/main/README.md#install-the-skill).

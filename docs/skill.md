@@ -21,18 +21,21 @@ title: Agent skill handoff
 
 ## Security (read this)
 
-The skill is **markdown only** — no scripts, hooks, or MCP servers. Review [TRUST.md](https://github.com/redhat-community-ai-tools/innovate-together-il-2026-ai/blob/main/TRUST.md) before installing. Prefer the official `redhat-community-ai-tools` repository.
+The skill is **markdown only** — no scripts, hooks, or MCP servers. Review [TRUST.md](https://gitlab.cee.redhat.com/qe-ds/innovate-together-il-2026-ai/-/blob/main/TRUST.md) before installing.
 
 ## 3-step handoff to a developer
 
-1. Send them: https://github.com/redhat-community-ai-tools/innovate-together-il-2026-ai
-2. Ask them to read `TRUST.md`, then follow install steps in the README (symlink for Cursor/Codex, or Claude plugin marketplace).
+1. Send them the repo: https://gitlab.cee.redhat.com/qe-ds/innovate-together-il-2026-ai  
+   and the [README install section](https://gitlab.cee.redhat.com/qe-ds/innovate-together-il-2026-ai/-/blob/main/README.md#install-the-skill).
+2. Ask them to read `TRUST.md`, then follow install steps in the README (symlink for Cursor/Codex; Claude plugin marketplace after public GitHub publish).
 3. In their agent chat: *“Using the Innovate Together IL AI skill, look at this repo and suggest which talks and projects we should borrow from.”*
 
 ## Install (short)
 
+Clone from **GitLab** (internal source of truth for now):
+
 ```bash
-git clone https://github.com/redhat-community-ai-tools/innovate-together-il-2026-ai.git
+git clone git@gitlab.cee.redhat.com:qe-ds/innovate-together-il-2026-ai.git
 cd innovate-together-il-2026-ai
 
 # Cursor (project)
@@ -40,11 +43,12 @@ mkdir -p /path/to/project/.cursor/skills
 ln -s "$(pwd)/skills/innovate-together-il-ai" \
   /path/to/project/.cursor/skills/innovate-together-il-ai
 
-# Claude Code
-claude plugin marketplace add https://github.com/redhat-community-ai-tools/innovate-together-il-2026-ai
-claude plugin install innovate-together-il-ai
+# Codex / Agent Skills path
+mkdir -p /path/to/project/.agents/skills
+ln -s "$(pwd)/skills/innovate-together-il-ai" \
+  /path/to/project/.agents/skills/innovate-together-il-ai
 ```
 
-Full details: [README](https://github.com/redhat-community-ai-tools/innovate-together-il-2026-ai#install-the-skill).
+Full details (all install options): [README — Install the skill](https://gitlab.cee.redhat.com/qe-ds/innovate-together-il-2026-ai/-/blob/main/README.md#install-the-skill).
 
 [← Back to agenda](index.md)

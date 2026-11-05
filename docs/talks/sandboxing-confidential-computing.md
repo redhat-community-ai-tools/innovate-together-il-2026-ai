@@ -11,6 +11,6 @@ Kata-based agent sandboxes and confidential containers + KServe for confidential
 
 **Docs / projects:** [Kata](https://katacontainers.io/) · [Confidential Containers](https://confidentialcontainers.org/) · [KServe](https://kserve.github.io/website/)
 
-**Agent detail:** [talk reference](https://github.com/redhat-community-ai-tools/innovate-together-il-2026-ai/blob/main/skills/innovate-together-il-ai/references/talks/sandboxing-confidential-computing.md) · [Skill handoff](../skill.md)
+**Agent detail:** [talk reference](https://gitlab.cee.redhat.com/qe-ds/innovate-together-il-2026-ai/-/blob/main/skills/innovate-together-il-ai/references/talks/sandboxing-confidential-computing.md) · [Skill handoff](../skill.md)
 
 [← Agenda](../index.md)
