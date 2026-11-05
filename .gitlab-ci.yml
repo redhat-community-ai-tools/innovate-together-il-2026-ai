@@ -1,6 +1,10 @@
 # Internal preview site for the AI track agenda / skill handoff.
 # After the first successful pipeline: Settings → Pages for the URL.
 
+default:
+  tags:
+    - itup-alm-x86
+
 stages:
   - deploy
 
