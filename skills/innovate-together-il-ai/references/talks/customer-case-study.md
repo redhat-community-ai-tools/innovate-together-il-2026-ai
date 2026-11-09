@@ -2,11 +2,12 @@
 
 - **Time:** 12:30 (20 min)
 - **Speakers:** TBD
-- **Status:** pending materials (stub)
+- **Materials:** slides-not-in-pack
+- **Status:** stub (speaker TBD; customer deck not shared into this pack)
 
 ## Abstract
 
-Agenda lists a customer case study slot. Speaker and abstract will be added when confirmed. **Do not invent customer names, metrics, or architectures.**
+Agenda lists a customer case study slot. Speaker and abstract will be added when confirmed. **Do not invent customer names, metrics, or architectures. Never say “until slides land” for a customer deck — it is not expected in this pack.**
 
 ## What to listen for (provisional only)
 
@@ -15,7 +16,7 @@ Agenda lists a customer case study slot. Speaker and abstract will be added when
 
 ## Repos & docs
 
-None until the case study is named and materials are published.
+None in this pack until the case study is named (public docs only if listed later).
 
 ## Try this in your environment
 

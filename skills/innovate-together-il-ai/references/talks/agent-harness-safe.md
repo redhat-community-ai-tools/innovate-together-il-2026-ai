@@ -2,7 +2,7 @@
 
 - **Time:** 11:35 (20 min)
 - **Speakers:** Benjamin Kapner (Data Scientist, Red Hat)
-- **Slides:** Coming soon
+- **Materials:** slides-pending
 - **Full title:** Is Your AI Agent Harness Safe? Finding Defects in Skills, Hooks, and MCPs Before Agents Merge on Their Own
 
 ## Abstract

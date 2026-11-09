@@ -30,7 +30,7 @@ Contribute by starring their private customer repo and emailing the speaker your
 
 ## Good contrast
 
-See [05-session-stub-honesty.md](05-session-stub-honesty.md) for a passing stub brief. For commercial contact only when asked: https://www.redhat.com/en/contact — never invent account-team emails.
+See [05-session-stub-honesty.md](05-session-stub-honesty.md) for a passing guest brief (`slides-not-in-pack`, no “until slides land”). For commercial contact only when asked: https://www.redhat.com/en/contact — never invent account-team emails.
 
 ## Live agent delta
 

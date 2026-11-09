@@ -2,8 +2,9 @@
 
 - **Time:** 11:55 (20 min)
 - **Speakers:** Aviran (Abe) Badli; Uri Shaket (Red Hat)
-- **Slides:** Coming soon
+- **Materials:** slides-pending
 - **Related abstract title:** Chain of Trust: The Hidden System Behind Validated AI Models
+- **Framing:** How **Red Hat** validates and gates models **for customers** (catalog trust / “Validated by Red Hat”) — not a workshop on rebuilding that pipeline yourself.
 
 ## Abstract
 
@@ -11,9 +12,9 @@ Enterprise AI trust is not a leaderboard badge — it is whether a model runs on
 
 ## Takeaways to borrow
 
-- Treat models as signed supply-chain artifacts (ModelCar), not loose weight files
-- Gate: package → smoke serve → security/perf/accuracy → catalog
-- “Validated” means a failed-closed chain, not marketing copy
+- “Validated by Red Hat” means a fail-closed chain Red Hat runs before a model appears in the catalog — not a marketing badge
+- What you get as a customer: signed/attested ModelCar provenance plus smoke-serve and eval evidence behind the mark
+- Useful audit questions: what attestations exist, what failed closed, what hardware/stack combos were exercised
 
 ## Repos & docs
 
@@ -25,8 +26,8 @@ Enterprise AI trust is not a leaderboard badge — it is whether a model runs on
 ## Contribution opportunities
 
 - Upstream eval tooling (GuideLLM / EvalHub / Garak integrations) where public
-- Share ModelCar packaging patterns and failed-closed CI examples (sanitized)
+- Feedback on what “Validated” evidence auditors need to see (sanitized)
 
 ## Try this in your environment
 
-Ask: “What would a minimal ModelCar + smoke-serve gate look like before we promote a model to our internal catalog?”
+Ask: “For models we consume from Red Hat’s catalog, which Validated-chain checks map to our approval / audit questions — and what should we ask Red Hat if a gap remains?”

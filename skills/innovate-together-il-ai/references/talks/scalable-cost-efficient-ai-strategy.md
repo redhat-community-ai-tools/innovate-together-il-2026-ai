@@ -2,7 +2,7 @@
 
 - **Time:** 11:05 (30 min)
 - **Speakers:** Roy Nissim (Senior Manager, Engineering, Red Hat)
-- **Slides:** Coming soon
+- **Materials:** slides-pending
 
 ## Abstract
 

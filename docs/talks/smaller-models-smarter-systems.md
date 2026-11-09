@@ -7,7 +7,7 @@ title: Smaller Models, Smarter Systems
 
 **13:10** · Alex Sokolov (Matrix) — guest
 
-Guest session on bringing enterprise AI on-premises with smaller, smarter systems. Abstract and links coming soon.
+Guest session on bringing enterprise AI on-premises with smaller, smarter systems. Partner deck is not in this pack — provisional themes only.
 
 **Docs:** [OpenShift AI](https://docs.redhat.com/en/documentation/red_hat_openshift_ai)
 

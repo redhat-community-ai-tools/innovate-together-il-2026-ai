@@ -6,14 +6,15 @@
 | 02 | `happy` | Project match | pass | **pass** |
 | 03 | `happy` `multi-mode` | Event brief | pass | **pass** |
 | 04 | `happy` `multi-mode` | Session brief | pass | **pass** |
-| 05 | `stub-honesty` `multi-mode` | Session brief | pass | **pass** |
+| 05 | `stub-honesty` `multi-mode` | Session brief | pass (updated: slides-not-in-pack) | **pass** (prior); re-check wording |
 | 06 | `happy` | Project match | pass | **pass** |
 | 07 | `anti-example` | Fail bar | fail (intentional) | **avoided** |
+| 08 | `happy` `framing` | Session brief | pass (hand-authored) | — pending |
 
 **Live run:** [live-runs/2026-11-05-cursor.md](live-runs/2026-11-05-cursor.md)  
 Agent: Cursor (Composer); skill loaded by following `SKILL.md` + `references/` in-session.
 
-**Result:** 6/6 live passes; anti-example failure modes avoided.
+**Result:** 6/6 live passes on 2026-11-05 suite; anti-example failure modes avoided. Re-run 05 + new 08 after materials-status / packaging framing edits.
 
 ## Caveat
 

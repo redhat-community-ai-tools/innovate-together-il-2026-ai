@@ -6,7 +6,7 @@ Soft next-steps only: official documentation and public OSS. Not a sales pitch.
 
 - Product overview: https://www.redhat.com/en/technologies/cloud-computing/openshift/ai
 - OpenShift AI docs: https://docs.redhat.com/en/documentation/red_hat_openshift_ai
-- Validated models / model catalog concepts: see talk [packaging-gating-models](talks/packaging-gating-models.md)
+- Validated models / model catalog concepts: see talk [packaging-gating-models](talks/packaging-gating-models.md) — framing is **how Red Hat validates for customers**, not a self-build gating workshop
 
 ## Inference stack
 

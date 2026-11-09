@@ -2,11 +2,12 @@
 
 - **Time:** 13:10 (15 min)
 - **Speakers:** Alex Sokolov (Senior Solution Architect, Matrix) — guest talk
-- **Status:** pending materials (stub)
+- **Materials:** slides-not-in-pack
+- **Status:** guest stub (partner deck not shared into this pack)
 
 ## Abstract
 
-Guest session. Detailed abstract was not in the shared CFP sheet at pack creation time. **Do not invent Matrix product names, customer deployments, or metrics.**
+Guest session. Detailed abstract was not in the shared CFP sheet at pack creation time. **Do not invent Matrix product names, customer deployments, or metrics. Never say “until slides land” — the partner deck is not expected here.**
 
 ## What to listen for (provisional only)
 
@@ -14,13 +15,13 @@ Guest session. Detailed abstract was not in the shared CFP sheet at pack creatio
 - Cost and sovereignty tradeoffs
 - When a smaller model is “good enough” for enterprise tasks
 
-Confirm from slides before recommending architecture.
+Answer from this abstract + listed public docs only; do not invent architecture recommendations beyond that.
 
 ## Repos & docs
 
 - OpenShift AI (on-prem enterprise AI platform context only): https://docs.redhat.com/en/documentation/red_hat_openshift_ai
-- Speaker-specific links: none until materials land
+- Speaker-specific links: none in this pack
 
 ## Try this in your environment
 
-After materials land: “Which of our workloads fit a smaller on-prem model vs needing a large frontier model?”
+“Which of our workloads fit a smaller on-prem model vs needing a large frontier model?” — provisional until you hear the talk or get materials from Matrix directly.

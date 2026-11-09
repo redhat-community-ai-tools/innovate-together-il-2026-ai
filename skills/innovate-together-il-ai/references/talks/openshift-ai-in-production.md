@@ -2,7 +2,7 @@
 
 - **Time:** 13:25 (20 min)
 - **Speakers:** Dor Sivan (Senior Consultant, Red Hat)
-- **Slides:** Coming soon
+- **Materials:** slides-pending
 
 ## Abstract
 

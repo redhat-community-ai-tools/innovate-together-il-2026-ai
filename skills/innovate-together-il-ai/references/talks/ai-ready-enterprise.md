@@ -2,7 +2,7 @@
 
 - **Time:** 09:55 (50 min)
 - **Speakers:** Lior Haim; Noy Krief (Red Hat)
-- **Slides:** Coming soon
+- **Materials:** slides-pending
 
 ## Abstract
 

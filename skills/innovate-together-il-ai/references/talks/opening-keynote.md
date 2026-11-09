@@ -2,7 +2,8 @@
 
 - **Time:** 09:10 (45 min)
 - **Speakers:** Michael Kotelnikov (Red Hat); Kobi Katz (Maccabi Healthcare Services); Official Representative, Israel Ministry of Defense
-- **Slides:** Coming soon (Drive folder populates closer to the event)
+- **Materials:** slides-pending
+- **Note:** Drive folder may populate closer to the event
 
 ## Abstract
 

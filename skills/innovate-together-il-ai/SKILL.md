@@ -31,12 +31,12 @@ Pick the mode from the request (ask once if ambiguous):
 4. **Event brief** — Short overview: theme of the day, morning vs track, 1–2 sentences per talk. End with “if you only attend three…”:
    - If the user named a priority, pick **those three first** for that goal.
    - Then optionally list other buckets (cost, agents/harness, production OpenShift AI, security/confidential).
-5. **Session brief** — One block per requested talk (shared one-line preamble OK if several). Include: title, time, speakers; **LinkedIn/GitHub when present in speakers.md** (never invent); summary; takeaways; repos/docs; contribute; slide status.
-6. **Stub protocol** — If a talk file marks materials pending / guest stub / speaker not yet named:
-   - Say so up front; give **“what to listen for”** only as provisional themes.
-   - Do **not** invent benchmarks, product names, customer metrics, or repos.
-   - Omit empty **Contribute** sections (or write “none until materials land”).
-   - Prefer platform docs already listed (e.g. OpenShift AI) as context only.
+5. **Session brief** — One block per requested talk (shared one-line preamble OK if several). Include: title, time, speakers; **LinkedIn/GitHub when present in speakers.md** (never invent); summary; takeaways; repos/docs; contribute; materials status.
+6. **Materials status** — Read the talk file’s **Materials** field (or legacy Status/Slides). Never invent decks, benchmarks, product names, customer metrics, or repos.
+   - `slides-in-pack` — May cite outline/takeaways from the pack.
+   - `slides-pending` — Red Hat talk; outline may arrive later. Say slides are not in the pack yet; answer from abstract + listed public docs only. Do **not** invent product claims to fill the gap.
+   - `slides-not-in-pack` — Partner/customer deck will **not** be shared into this pack. Say so once (“deck isn’t in this pack — partner/customer”). Answer from abstract + listed public docs only. **Never** say “until slides land,” “when materials land,” or “no claims until slides land” — that landing is not expected.
+   - Guest/stub / speaker not yet named: give **“what to listen for”** as provisional themes; omit empty **Contribute** (or “none in pack yet”). Prefer listed platform docs as context only.
 7. **Not sales** — Soft docs links only; commercial contact → https://www.redhat.com/en/contact.
 
 ## Response shapes
@@ -84,10 +84,10 @@ One concrete action they can take this week.
 ### [Title]
 - When / who: … | LinkedIn: <url or —> | GitHub: <url or —>
 - Summary: …
-- Takeaways: …   # or “What to listen for” if stub
+- Takeaways: …   # or “What to listen for” if stub / slides-not-in-pack
 - Repos / docs: …
-- Contribute: …  # omit if stub / none yet
-- Slides: available | pending
+- Contribute: …  # omit if stub / none in pack
+- Materials: slides-in-pack | slides-pending | slides-not-in-pack
 ```
 
 ## Additional resources

@@ -7,7 +7,7 @@ title: Agentic AI on Intel Xeon
 
 **12:15** · Roee Saban (Intel) — guest
 
-Performance, security, and sovereignty themes for agentic AI on Xeon with OpenShift AI. Materials coming soon.
+Performance, security, and sovereignty themes for agentic AI on Xeon with OpenShift AI. Partner deck is not in this pack — use the talk abstract and OpenShift AI docs only.
 
 **Docs:** [OpenShift AI](https://docs.redhat.com/en/documentation/red_hat_openshift_ai)
 

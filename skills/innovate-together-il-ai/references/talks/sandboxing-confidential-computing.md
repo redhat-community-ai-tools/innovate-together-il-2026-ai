@@ -2,7 +2,7 @@
 
 - **Time:** 12:50 (20 min)
 - **Speakers:** Ariel Adam (Director, Engineering, Red Hat)
-- **Slides:** Coming soon
+- **Materials:** slides-pending
 
 ## Abstract
 

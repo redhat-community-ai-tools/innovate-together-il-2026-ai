@@ -31,7 +31,8 @@ Registration: https://reg.experiences.redhat.com/flow/redhat/4804050/rhexpressre
 
 - Cost / gateway / self-hosted inference → `scalable-cost-efficient-ai-strategy`, `openshift-ai-in-production`
 - Agent skills / hooks / MCP safety → `agent-harness-safe`
-- Model catalog / signed ModelCar / validation → `packaging-gating-models`
+- Model catalog / “Validated by Red Hat” trust (RH-for-customers, not DIY gate workshop) → `packaging-gating-models`
 - Agent sandbox / confidential inference → `sandboxing-confidential-computing`
 - Platform blueprint / production AI stack → `ai-ready-enterprise`, `opening-keynote`
-- Guest hardware / partner talks → `agentic-ai-intel-xeon`, `smaller-models-smarter-systems` (stubs until slides land)
+- Guest hardware / partner talks → `agentic-ai-intel-xeon`, `smaller-models-smarter-systems` (`slides-not-in-pack`; abstract + public docs only)
+- Customer case study → `customer-case-study` (`slides-not-in-pack`; speaker TBD)
