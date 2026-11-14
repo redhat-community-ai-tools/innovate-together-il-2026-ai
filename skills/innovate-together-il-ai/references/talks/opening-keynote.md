@@ -1,9 +1,9 @@
 # Opening Keynote
 
-- **Time:** 09:10 (45 min)
-- **Speakers:** Michael Kotelnikov (Red Hat); Kobi Katz (Maccabi Healthcare Services); Official Representative, Israel Ministry of Defense
-- **Materials:** slides-pending
-- **Note:** Drive folder may populate closer to the event
+- **Time:** 09:10 (55 min)
+- **Speakers:** Michael Kotelnikov (Red Hat); Shlomi Ambar (Head of Technology Strategy & Solution Engineering, Maccabi Healthcare Services); Official Representative, Israel Ministry of Defense
+- **Materials:** slides-in-pack
+- **Note:** Deck in organizer [main-stage Drive](https://drive.google.com/drive/folders/1bvIK4jx8XqAxI9N-U1AlMf1ti2RIY5US) (access-controlled). Cite abstract + public docs only unless outline is copied into this pack.
 
 ## Abstract
 

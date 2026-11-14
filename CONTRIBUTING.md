@@ -26,7 +26,11 @@ Useful additions:
 - Slide **outline** as markdown (not large binaries)
 - Link to a publicly shareable PDF/Drive file if the organizer publishes one
 
-Presentation source folder (organizers): [Google Drive presentations](https://drive.google.com/drive/folders/1bnJ7cHjtxkkGpuU-oTxi6x0xfYfSGY4V)
+Presentation source folders (organizers, access-controlled):
+
+- [Main stage](https://drive.google.com/drive/folders/1bvIK4jx8XqAxI9N-U1AlMf1ti2RIY5US) — Opening Keynote, The AI Ready Enterprise
+- [AI track](https://drive.google.com/drive/folders/1vYeadTnV85-fCSKPqBV7fagq-IpStKGl) — Roy Nissim, harness-eval, Chain of Trust, sandboxing, etc.
+- Agenda sheet: [2026 Agenda](https://docs.google.com/spreadsheets/d/12o_znin554__1h2oTpwISvJf1DborIanRpbczTWayeo/edit?gid=1440019033#gid=1440019033)
 
 ## What not to add
 

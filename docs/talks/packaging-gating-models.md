@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Packaging and Gating Models
+title: Chain of Trust — Validated AI Models
 ---
 
-# Packaging and Gating Models for OpenShift AI Inference
+# Chain of Trust: The Hidden System Behind Validated AI Models
 
 **11:55** · [Aviran Badli](https://www.linkedin.com/in/aviran-badli/); [Uri Shaket](https://www.linkedin.com/in/uri-shaket-982423153/) (Red Hat)
 

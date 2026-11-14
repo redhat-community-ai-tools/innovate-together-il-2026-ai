@@ -1,8 +1,9 @@
 # The AI Ready Enterprise
 
-- **Time:** 09:55 (50 min)
+- **Time:** 10:05 (40 min)
 - **Speakers:** Lior Haim; Noy Krief (Red Hat)
-- **Materials:** slides-pending
+- **Materials:** slides-in-pack
+- **Note:** Deck in organizer [main-stage Drive](https://drive.google.com/drive/folders/1bvIK4jx8XqAxI9N-U1AlMf1ti2RIY5US) (access-controlled).
 
 ## Abstract
 

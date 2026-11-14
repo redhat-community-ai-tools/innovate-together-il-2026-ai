@@ -21,8 +21,8 @@ Take something practical home: browse the agenda below, then send your developer
 | Time | Session |
 |------|---------|
 | 09:00 | Welcome |
-| 09:10 | [Opening Keynote](talks/opening-keynote.md) — [Michael Kotelnikov](https://www.linkedin.com/in/michael-kotelnikov/) & guests |
-| 09:55 | [The AI Ready Enterprise](talks/ai-ready-enterprise.md) — [Lior Haim](https://www.linkedin.com/in/lior-haim-lh/), [Noy Krief](https://www.linkedin.com/in/noy-krief/) |
+| 09:10 | [Opening Keynote](talks/opening-keynote.md) — [Michael Kotelnikov](https://www.linkedin.com/in/michael-kotelnikov/), Shlomi Ambar (Maccabi) & MoD guest |
+| 10:05 | [The AI Ready Enterprise](talks/ai-ready-enterprise.md) — [Lior Haim](https://www.linkedin.com/in/lior-haim-lh/), [Noy Krief](https://www.linkedin.com/in/noy-krief/) |
 | 10:45 | Coffee |
 
 ## Track 1: AI
@@ -31,9 +31,9 @@ Take something practical home: browse the agenda below, then send your developer
 |------|---------|
 | 11:05 | [Scalable, Cost-Efficient AI Strategy](talks/scalable-cost-efficient-ai-strategy.md) — [Roy Nissim](https://www.linkedin.com/in/roy-nissim/) |
 | 11:35 | [Is Your AI Agent Harness Safe?](talks/agent-harness-safe.md) — [Benjamin Kapner](https://www.linkedin.com/in/benjamin-kapner-ba75a11b5/) |
-| 11:55 | [Packaging and Gating Models](talks/packaging-gating-models.md) — [Aviran Badli](https://www.linkedin.com/in/aviran-badli/), [Uri Shaket](https://www.linkedin.com/in/uri-shaket-982423153/) |
+| 11:55 | [Chain of Trust: Validated AI Models](talks/packaging-gating-models.md) — [Aviran Badli](https://www.linkedin.com/in/aviran-badli/), [Uri Shaket](https://www.linkedin.com/in/uri-shaket-982423153/) |
 | 12:15 | [Agentic AI on Intel Xeon…](talks/agentic-ai-intel-xeon.md) — Roee Saban (Intel) |
-| 12:30 | [Customer Case Study](talks/customer-case-study.md) — TBD |
+| 12:30 | [From Clinical Needs to Real Innovations…](talks/customer-case-study.md) — Tamir Shachar (Clalit), Lior Barbash (SCVC / Schneider Children's) |
 | 12:50 | [Sandboxing & Confidential Computing](talks/sandboxing-confidential-computing.md) — [Ariel Adam](https://www.linkedin.com/in/ariel-adam-26398b55/) |
 | 13:10 | [Smaller Models, Smarter Systems](talks/smaller-models-smarter-systems.md) — Alex Sokolov (Matrix) |
 | 13:25 | [OpenShift AI in Production](talks/openshift-ai-in-production.md) — [Dor Sivan](https://www.linkedin.com/in/dor-sivan-908095138/) |

@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Customer Case Study
+title: From Clinical Needs to Real Innovations
 ---
 
-# Customer Case Study
+# From Clinical Needs to Real Innovations. Powered by Digital Capabilities
 
-**12:30** · Speaker TBD
+**12:30** · Tamir Shachar (Clalit Health Services); Lior Barbash (SCVC Fund / Schneider Children's Innovation Center)
 
-Speaker TBD. Customer deck is not shared into this pack; details when the case study is named.
+Healthcare innovation session — clinical needs to digital / AI-enabled capabilities. Customer deck is not shared into this pack.
 
 **Agent detail:** [talk reference (GitLab)](https://gitlab.cee.redhat.com/qe-ds/innovate-together-il-2026-ai/-/blob/main/skills/innovate-together-il-ai/references/talks/customer-case-study.md) · [talk reference (GitHub)](https://github.com/redhat-community-ai-tools/innovate-together-il-2026-ai/blob/main/skills/innovate-together-il-ai/references/talks/customer-case-study.md) · [Skill handoff](../skill.md)
 

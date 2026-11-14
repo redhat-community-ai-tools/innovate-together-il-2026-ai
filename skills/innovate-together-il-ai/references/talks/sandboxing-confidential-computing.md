@@ -2,7 +2,8 @@
 
 - **Time:** 12:50 (20 min)
 - **Speakers:** Ariel Adam (Director, Engineering, Red Hat)
-- **Materials:** slides-pending
+- **Materials:** slides-in-pack
+- **Note:** Deck (+ optional video) in organizer [AI-track Drive](https://drive.google.com/drive/folders/1vYeadTnV85-fCSKPqBV7fagq-IpStKGl) (access-controlled).
 
 ## Abstract
 

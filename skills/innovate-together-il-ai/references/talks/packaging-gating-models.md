@@ -1,10 +1,11 @@
-# Packaging and Gating Models for OpenShift AI Inference
+# Chain of Trust: The Hidden System Behind Validated AI Models
 
 - **Time:** 11:55 (20 min)
 - **Speakers:** Aviran (Abe) Badli; Uri Shaket (Red Hat)
-- **Materials:** slides-pending
-- **Related abstract title:** Chain of Trust: The Hidden System Behind Validated AI Models
+- **Materials:** slides-in-pack
+- **Slug:** `packaging-gating-models` (kept for stable agent matching)
 - **Framing:** How **Red Hat** validates and gates models **for customers** (catalog trust / “Validated by Red Hat”) — not a workshop on rebuilding that pipeline yourself.
+- **Note:** Deck + demos in organizer [AI-track Drive / Chain of Trust folder](https://drive.google.com/drive/folders/1hxS5yvWr1a3pkEj1bCFVmSqgrWvW0de2) (access-controlled).
 
 ## Abstract
 
