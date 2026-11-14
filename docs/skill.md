@@ -17,7 +17,7 @@ title: Agent skill handoff
 - Briefing the whole AI track or specific sessions (for people who missed talks or need a quick recap)
 - Finding open-source repos and contribution paths from the sessions
 - Linking official Red Hat product documentation (not a sales pitch)
-- Grounding follow-up work in abstracts and (when in-pack) slide outlines; partner/customer decks may never be in the pack
+- Grounding follow-up work in abstracts and (when marked `slides-in-pack`) markdown outlines/takeaways in the talk files — not private Drive decks; partner/customer decks may never be in the pack
 
 ## Security (read this)
 

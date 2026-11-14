@@ -9,6 +9,11 @@ title: Chain of Trust — Validated AI Models
 
 How Red Hat validates models for customers: chain of trust behind “Validated by Red Hat” (ModelCar, signed artifacts, smoke serve, evals) before the catalog — not a DIY gating workshop.
 
+**Takeaways**
+
+- “Validated by Red Hat” is a fail-closed chain Red Hat runs before catalog publish
+- Ask what attestations exist, what failed closed, which hardware/stack combos were exercised
+
 **Docs:** [OpenShift AI](https://docs.redhat.com/en/documentation/red_hat_openshift_ai) · [Konflux](https://konflux-ci.dev/)
 
 **Agent detail:** [talk reference (GitLab)](https://gitlab.cee.redhat.com/qe-ds/innovate-together-il-2026-ai/-/blob/main/skills/innovate-together-il-ai/references/talks/packaging-gating-models.md) · [talk reference (GitHub)](https://github.com/redhat-community-ai-tools/innovate-together-il-2026-ai/blob/main/skills/innovate-together-il-ai/references/talks/packaging-gating-models.md) · [Skill handoff](../skill.md)

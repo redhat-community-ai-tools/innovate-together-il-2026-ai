@@ -23,20 +23,18 @@ Useful additions:
 
 - Public OSS repo links and “good first contribution” pointers
 - Official product documentation URLs
-- Slide **outline** as markdown (not large binaries)
-- Link to a publicly shareable PDF/Drive file if the organizer publishes one
+- Slide **outline / takeaways** as markdown in the talk file (preferred — skill users have no Drive access)
+- A **public** shareable PDF/recording URL only if the speaker/organizer has published one for everyone
 
-Presentation source folders (organizers, access-controlled):
+### Organizers (private Drive)
 
-- [Main stage](https://drive.google.com/drive/folders/1bvIK4jx8XqAxI9N-U1AlMf1ti2RIY5US) — Opening Keynote, The AI Ready Enterprise
-- [AI track](https://drive.google.com/drive/folders/1vYeadTnV85-fCSKPqBV7fagq-IpStKGl) — Roy Nissim, harness-eval, Chain of Trust, sandboxing, etc.
-- Agenda sheet: [2026 Agenda](https://docs.google.com/spreadsheets/d/12o_znin554__1h2oTpwISvJf1DborIanRpbczTWayeo/edit?gid=1440019033#gid=1440019033)
+Do **not** put access-controlled Drive or agenda-sheet links in skill/docs PRs. Keep them in local gitignored `host-notes/slides-drive-index.md` (create the file from your organizer notes if missing). When a deck changes, update that index locally, then refresh the public talk `.md` outline/takeaways so skill users stay current without needing Drive.
 
 ## What not to add
 
 - Work emails or private phone numbers
 - Sales scripts, discount codes, or account-team playbooks
-- Secrets, internal-only URLs, or customer-confidential case details without clearance
+- Secrets, internal-only URLs, private Drive/sheet links, or customer-confidential case details without clearance
 - Executable skill scripts, hooks, or MCP server configs
 
 ## Security review

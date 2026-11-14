@@ -5,6 +5,7 @@
 *.pdf
 _site/
 public/
+host-notes/
 # Ignore new local scratch under testing/. Tracked suite files stay versioned
 # (added with `git add -f`). To commit a new scenario: `git add -f testing/<file>`.
 testing/

@@ -32,9 +32,9 @@ Pick the mode from the request (ask once if ambiguous):
    - If the user named a priority, pick **those three first** for that goal.
    - Then optionally list other buckets (cost, agents/harness, production OpenShift AI, security/confidential).
 5. **Session brief** — One block per requested talk (shared one-line preamble OK if several). Include: title, time, speakers; **LinkedIn/GitHub when present in speakers.md** (never invent); summary; takeaways; repos/docs; contribute; materials status.
-6. **Materials status** — Read the talk file’s **Materials** field (or legacy Status/Slides). Never invent decks, benchmarks, product names, customer metrics, or repos.
-   - `slides-in-pack` — May cite outline/takeaways from the pack.
-   - `slides-pending` — Red Hat talk; outline may arrive later. Say slides are not in the pack yet; answer from abstract + listed public docs only. Do **not** invent product claims to fill the gap.
+6. **Materials status** — Read the talk file’s **Materials** field (or legacy Status/Slides). Never invent decks, benchmarks, product names, customer metrics, or repos. There are **no private Drive links** in this pack — users only get what is written in the talk `.md`.
+   - `slides-in-pack` — Outline/takeaways (and often “Try this”) are already in the talk file. Cite those freely; do not claim a downloadable deck is in the repo.
+   - `slides-pending` — Red Hat talk; outline may arrive later. Say materials are not in the pack yet; answer from abstract + listed public docs only. Do **not** invent product claims to fill the gap.
    - `slides-not-in-pack` — Partner/customer deck will **not** be shared into this pack. Say so once (“deck isn’t in this pack — partner/customer”). Answer from abstract + listed public docs only. **Never** say “until slides land,” “when materials land,” or “no claims until slides land” — that landing is not expected.
    - Guest/stub / speaker not yet named: give **“what to listen for”** as provisional themes; omit empty **Contribute** (or “none in pack yet”). Prefer listed platform docs as context only.
 7. **Not sales** — Soft docs links only; commercial contact → https://www.redhat.com/en/contact.

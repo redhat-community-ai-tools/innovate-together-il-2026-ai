@@ -9,6 +9,12 @@ title: Opening Keynote
 
 Platform foundation for AI and traditional workloads — resilience, security, and innovation without compromising production stability.
 
+**Takeaways**
+
+- Treat AI as another platform workload generation on OpenShift (containers, VMs, models, agents)
+- Prefer agents that act through the control plane with RBAC over chatbots that only quote docs
+- Put remediations through a sandbox / verify loop; plan upgrades with readiness, not hope
+
 **Agent detail:** [talk reference (GitLab)](https://gitlab.cee.redhat.com/qe-ds/innovate-together-il-2026-ai/-/blob/main/skills/innovate-together-il-ai/references/talks/opening-keynote.md) · [talk reference (GitHub)](https://github.com/redhat-community-ai-tools/innovate-together-il-2026-ai/blob/main/skills/innovate-together-il-ai/references/talks/opening-keynote.md) · [Skill handoff](../skill.md)
 
 [← Agenda](../index.md)

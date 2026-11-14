@@ -5,11 +5,19 @@
 - **Materials:** slides-in-pack
 - **Slug:** `packaging-gating-models` (kept for stable agent matching)
 - **Framing:** How **Red Hat** validates and gates models **for customers** (catalog trust / “Validated by Red Hat”) — not a workshop on rebuilding that pipeline yourself.
-- **Note:** Deck + demos in organizer [AI-track Drive / Chain of Trust folder](https://drive.google.com/drive/folders/1hxS5yvWr1a3pkEj1bCFVmSqgrWvW0de2) (access-controlled).
 
 ## Abstract
 
 Enterprise AI trust is not a leaderboard badge — it is whether a model runs on supported OpenShift / OpenShift AI with Red Hat AI Inference Server and vLLM on real GPUs without silent stack breaks. Red Hat’s Model Validation Program backs the “Validated by Red Hat” mark: Hugging Face weights → signed OCI / ModelCar on Konflux (hash, scan, attest, Enterprise Contract), smoke serve with vLLM, then measure with GuideLLM, Garak, EvalHub across hardware/framework/container combos. Fail closed before the catalog shows the model.
+
+## Outline (from deck)
+
+1. **Mission** — customers choose/deploy models with confidence: performance, accuracy, integration, Red Hat trust mark
+2. **Scope of the validation program** — validate new model releases on supported products; source of truth for model–product support; provenance / licensing / basic security; performance & accuracy benchmarks; visibility across Selection → Packaging → Validation → Benchmarking → Publish to AI Hub
+3. **Out of scope** — product QA ownership, product-specific tests, debugging product bugs, release go/no-go, writing security tests for the product itself
+4. **Priorities called out** — Model Catalog integration; validate/benchmark many new models; automate validation; self-serve benchmarking on RHOAI; move from static validation toward continuous / post-deploy alignment
+5. **Toolchain named** — GuideLLM, LM-Eval / EvalHub, Garak, Konflux / ModelCar / Enterprise Contract, vLLM smoke serve
+6. **Customer lens** — ask what attestations exist, what failed closed, which hardware/stack combos were exercised
 
 ## Takeaways to borrow
 

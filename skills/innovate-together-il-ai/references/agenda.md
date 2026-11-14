@@ -4,8 +4,7 @@ Event: Innovate Together / OpenShift Commons Gathering Israel
 Track lead: Hofni Gartner  
 Registration: https://reg.experiences.redhat.com/flow/redhat/4804050/rhexpressregistrationapp/page/expressregistration
 
-Source agenda sheet: [2026 Agenda](https://docs.google.com/spreadsheets/d/12o_znin554__1h2oTpwISvJf1DborIanRpbczTWayeo/edit?gid=1440019033#gid=1440019033)  
-Organizer slides — [main stage](https://drive.google.com/drive/folders/1bvIK4jx8XqAxI9N-U1AlMf1ti2RIY5US) · [AI track](https://drive.google.com/drive/folders/1vYeadTnV85-fCSKPqBV7fagq-IpStKGl) (access-controlled)
+Schedule and takeaways live in this pack (talk files under `talks/`). Skill users do **not** get private Drive decks — use outlines/takeaways in each talk `.md`. Organizers keep Drive + agenda-sheet URLs in local `host-notes/slides-drive-index.md` (gitignored).
 
 ## Morning (shared)
 
