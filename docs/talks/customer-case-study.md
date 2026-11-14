@@ -9,6 +9,6 @@ title: From Clinical Needs to Real Innovations
 
 Healthcare innovation session — clinical needs to digital / AI-enabled capabilities. Customer deck is not shared into this pack.
 
-**Agent detail:** [talk reference (GitLab)](https://gitlab.cee.redhat.com/qe-ds/innovate-together-il-2026-ai/-/blob/main/skills/innovate-together-il-ai/references/talks/customer-case-study.md) · [talk reference (GitHub)](https://github.com/redhat-community-ai-tools/innovate-together-il-2026-ai/blob/main/skills/innovate-together-il-ai/references/talks/customer-case-study.md) · [Skill handoff](../skill.md)
+**Agent detail:** [talk reference](https://github.com/redhat-community-ai-tools/innovate-together-il-2026-ai/blob/main/skills/innovate-together-il-ai/references/talks/customer-case-study.md) · [Skill handoff](../skill.md)
 
 [← Agenda](../index.md)

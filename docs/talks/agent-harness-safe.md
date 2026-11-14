@@ -17,6 +17,6 @@ Find defects in skills, hooks, and MCPs with **harness-eval** before agents merg
 
 **Repo:** [harness-eval](https://github.com/redhat-community-ai-tools/harness-eval)
 
-**Agent detail:** [talk reference (GitLab)](https://gitlab.cee.redhat.com/qe-ds/innovate-together-il-2026-ai/-/blob/main/skills/innovate-together-il-ai/references/talks/agent-harness-safe.md) · [talk reference (GitHub)](https://github.com/redhat-community-ai-tools/innovate-together-il-2026-ai/blob/main/skills/innovate-together-il-ai/references/talks/agent-harness-safe.md) · [Skill handoff](../skill.md)
+**Agent detail:** [talk reference](https://github.com/redhat-community-ai-tools/innovate-together-il-2026-ai/blob/main/skills/innovate-together-il-ai/references/talks/agent-harness-safe.md) · [Skill handoff](../skill.md)
 
 [← Agenda](../index.md)
