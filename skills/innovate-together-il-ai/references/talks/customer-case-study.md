@@ -1,14 +1,14 @@
 # From Clinical Needs to Real Innovations. Powered by Digital Capabilities
 
 - **Time:** 12:30 (20 min)
-- **Speakers:** Tamir Shachar (Head of Cloud, AI & Technology Acceleration, Information Systems & Digital Division, Clalit Health Services); Lior Barbash, MBA (Director of Clinical Innovation & Strategic Ventures, SCVC Fund; deal flow / venture building, Schneider Children's Innovation Center)
+- **Speakers:** Alex Stafeyev (Senior Solution Architect, Red Hat); Lior Barbash, MBA (Director of Clinical Innovation & Strategic Ventures, SCVC Fund; deal flow / venture building, Schneider Children's Innovation Center)
 - **Materials:** slides-not-in-pack
 - **Slug:** `customer-case-study` (kept for stable agent matching)
 - **Status:** customer/partner session — deck not shared into this pack
 
 ## Abstract
 
-Healthcare innovation session: moving from clinical needs to real digital / AI-enabled capabilities. Speakers from Clalit Health Services and SCVC / Schneider Children's Innovation Center. **Do not invent customer metrics, architectures, product names, or clinical outcomes.** Answer from this abstract and any public docs listed later only. **Never say “until slides land” — a customer deck is not expected in this pack.**
+Healthcare innovation session: moving from clinical needs to real digital / AI-enabled capabilities. Speakers from Red Hat and SCVC / Schneider Children's Innovation Center. **Do not invent customer metrics, architectures, product names, or clinical outcomes.** Answer from this abstract and any public docs listed later only. **Never say “until slides land” — a customer deck is not expected in this pack.**
 
 ## What to listen for (provisional only)
 

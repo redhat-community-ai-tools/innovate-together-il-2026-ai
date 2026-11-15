@@ -18,7 +18,7 @@ LinkedIn links are published only when provided. Canonical list for the agent sk
 | [Aviran Badli](https://www.linkedin.com/in/aviran-badli/) | Chain of Trust (Validated AI Models) | [Profile](https://www.linkedin.com/in/aviran-badli/) | — |
 | [Uri Shaket](https://www.linkedin.com/in/uri-shaket-982423153/) | Chain of Trust (Validated AI Models) | [Profile](https://www.linkedin.com/in/uri-shaket-982423153/) | — |
 | Roee Saban | Agentic AI on Intel Xeon… | — | — |
-| Tamir Shachar | From Clinical Needs to Real Innovations… | — | — |
+| Alex Stafeyev | From Clinical Needs to Real Innovations… (also Welcome) | — | — |
 | Lior Barbash | From Clinical Needs to Real Innovations… | — | — |
 | [Ariel Adam](https://www.linkedin.com/in/ariel-adam-26398b55/) | Sandboxing & Confidential Computing | [Profile](https://www.linkedin.com/in/ariel-adam-26398b55/) | — |
 | Alex Sokolov | Smaller Models, Smarter Systems | — | — |

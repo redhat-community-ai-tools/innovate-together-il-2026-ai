@@ -32,7 +32,7 @@ Take something practical home: browse the agenda below, then send your developer
 | 11:35 | [Is Your AI Agent Harness Safe?](talks/agent-harness-safe.md) — [Benjamin Kapner](https://www.linkedin.com/in/benjamin-kapner-ba75a11b5/) |
 | 11:55 | [Chain of Trust: Validated AI Models](talks/packaging-gating-models.md) — [Aviran Badli](https://www.linkedin.com/in/aviran-badli/), [Uri Shaket](https://www.linkedin.com/in/uri-shaket-982423153/) |
 | 12:15 | [Agentic AI on Intel Xeon…](talks/agentic-ai-intel-xeon.md) — Roee Saban (Intel) |
-| 12:30 | [From Clinical Needs to Real Innovations…](talks/customer-case-study.md) — Tamir Shachar (Clalit), Lior Barbash (SCVC / Schneider Children's) |
+| 12:30 | [From Clinical Needs to Real Innovations…](talks/customer-case-study.md) — Alex Stafeyev (Red Hat), Lior Barbash (SCVC / Schneider Children's) |
 | 12:50 | [Sandboxing & Confidential Computing](talks/sandboxing-confidential-computing.md) — [Ariel Adam](https://www.linkedin.com/in/ariel-adam-26398b55/) |
 | 13:10 | [Smaller Models, Smarter Systems](talks/smaller-models-smarter-systems.md) — Alex Sokolov (Matrix) |
 | 13:25 | [OpenShift AI in Production](talks/openshift-ai-in-production.md) — [Dor Sivan](https://www.linkedin.com/in/dor-sivan-908095138/) |

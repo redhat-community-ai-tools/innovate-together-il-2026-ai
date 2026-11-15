@@ -15,7 +15,7 @@ Source for LinkedIn column: organizer speaker sheet (synced manually).
 | Aviran Badli | Chain of Trust (Validated AI Models) | https://www.linkedin.com/in/aviran-badli/ | — |
 | Uri Shaket | Chain of Trust (Validated AI Models) | https://www.linkedin.com/in/uri-shaket-982423153/ | — |
 | Roee Saban | Agentic AI on Intel Xeon… | — | — |
-| Tamir Shachar | From Clinical Needs to Real Innovations… | — | — |
+| Alex Stafeyev | From Clinical Needs to Real Innovations… (also Welcome) | — | — |
 | Lior Barbash | From Clinical Needs to Real Innovations… | — | — |
 | Ariel Adam | Sandboxing & Confidential Computing | https://www.linkedin.com/in/ariel-adam-26398b55/ | — |
 | Alex Sokolov | Smaller Models, Smarter Systems | — | — |

@@ -23,7 +23,7 @@ Schedule and takeaways live in this pack (talk files under `talks/`). Skill user
 | 11:35 | Is Your AI Agent Harness Safe? | Benjamin Kapner | [agent-harness-safe](talks/agent-harness-safe.md) |
 | 11:55 | Chain of Trust: The Hidden System Behind Validated AI Models | Aviran Badli; Uri Shaket | [packaging-gating-models](talks/packaging-gating-models.md) |
 | 12:15 | Agentic AI on Intel Xeon and Red Hat OpenShift AI | Roee Saban (Intel) | [agentic-ai-intel-xeon](talks/agentic-ai-intel-xeon.md) |
-| 12:30 | From Clinical Needs to Real Innovations. Powered by Digital Capabilities | Tamir Shachar (Clalit); Lior Barbash (SCVC / Schneider Children's) | [customer-case-study](talks/customer-case-study.md) |
+| 12:30 | From Clinical Needs to Real Innovations. Powered by Digital Capabilities | Alex Stafeyev (Red Hat); Lior Barbash (SCVC / Schneider Children's) | [customer-case-study](talks/customer-case-study.md) |
 | 12:50 | Leveraging Sandboxing and Confidential Computing for Agents and Models | Ariel Adam | [sandboxing-confidential-computing](talks/sandboxing-confidential-computing.md) |
 | 13:10 | Smaller Models, Smarter Systems: Bringing Enterprise AI On-Premises | Alex Sokolov (Matrix) | [smaller-models-smarter-systems](talks/smaller-models-smarter-systems.md) |
 | 13:25 | From Adoption to Optimization: OpenShift AI in Production | Dor Sivan | [openshift-ai-in-production](talks/openshift-ai-in-production.md) |
