@@ -23,6 +23,24 @@ LinkedIn links are published only when provided. Canonical list for the agent sk
 | [Ariel Adam](https://www.linkedin.com/in/ariel-adam-26398b55/) | Sandboxing & Confidential Computing | [Profile](https://www.linkedin.com/in/ariel-adam-26398b55/) | — |
 | Alex Sokolov | Smaller Models, Smarter Systems | — | — |
 | [Dor Sivan](https://www.linkedin.com/in/dor-sivan-908095138/) | OpenShift AI in Production | [Profile](https://www.linkedin.com/in/dor-sivan-908095138/) | — |
-| [Hofni Gartner](https://www.linkedin.com/in/hofni-gartner-873ab546/) | Track lead | [Profile](https://www.linkedin.com/in/hofni-gartner-873ab546/) | [GitHub](https://github.com/HofniGartner) |
+| [Hofni Gartner](https://www.linkedin.com/in/hofni-gartner-873ab546/) | AI track lead | [Profile](https://www.linkedin.com/in/hofni-gartner-873ab546/) | [GitHub](https://github.com/HofniGartner) |
+
+## Infrastructure track
+
+| Name | Talk(s) | LinkedIn | GitHub |
+|------|---------|----------|--------|
+| Dan Kenigsberg | OpenShift Virtualization Roadmap | — | — |
+| Ronen Sde-Or | OpenShift Virtualization Roadmap | — | — |
+| Rotem Benaim | Zero to Fully Compliant | — | — |
+| Avishay Traeger | Cloud Extensions | — | — |
+| Alona Paz | Cloud Extensions | — | — |
+| Assaf Lev | Infinidat CSI | — | — |
+| Batel Assaf Volchek | Infinidat CSI (also Welcome) | — | — |
+| Ben Oukhanov | AI Agents Managing VMs | — | — |
+| Or Raz | Your Nodes Will Fail | — | — |
+| Alex Stafeyev | Ansible MCP + Orchestrator (also Welcome / clinical) | — | — |
+| Yaakov Preiger | Ansible MCP + Orchestrator | — | — |
+| Jenia Peimer | VM Mobility | — | — |
+| Tal Nisan | Infra track lead | — | — |
 
 [← Agenda](index.md)

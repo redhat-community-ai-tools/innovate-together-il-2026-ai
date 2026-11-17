@@ -1,6 +1,6 @@
-# Innovate Together IL 2026 — AI Track Takeaway Pack
+# Innovate Together IL 2026 — Takeaway Pack
 
-Practical takeaways from the **AI track** at Innovate Together / OpenShift Commons Gathering Israel (**16 November 2026**).
+Practical takeaways from the **AI track** and the **Infrastructure track** at Innovate Together / OpenShift Commons Gathering Israel (**16 November 2026**).
 
 Most conference talks leave you with slides and a vague “we should look into that.” This pack is different: install a **markdown-only** agent skill (Cursor, Claude Code, or Codex), describe your environment, and get concrete borrow ideas, open-source repos, contribution paths, and official Red Hat product docs tied to what you heard on stage.
 
@@ -16,7 +16,7 @@ Read **[TRUST.md](TRUST.md)** before installing.
 - **Markdown / reference content only** — no skill scripts, hooks, or MCP servers
 - Review the skill tree; optionally scan with [harness-eval](https://github.com/redhat-community-ai-tools/harness-eval)
 
-## Install the skill
+## Install the skills
 
 Clone once:
 
@@ -33,6 +33,8 @@ Project-scoped:
 mkdir -p /path/to/your-project/.cursor/skills
 ln -s "$(pwd)/skills/innovate-together-il-ai" \
   /path/to/your-project/.cursor/skills/innovate-together-il-ai
+ln -s "$(pwd)/skills/innovate-together-il-infra" \
+  /path/to/your-project/.cursor/skills/innovate-together-il-infra
 ```
 
 Personal (all projects):
@@ -40,6 +42,7 @@ Personal (all projects):
 ```bash
 mkdir -p ~/.cursor/skills
 ln -s "$(pwd)/skills/innovate-together-il-ai" ~/.cursor/skills/innovate-together-il-ai
+ln -s "$(pwd)/skills/innovate-together-il-infra" ~/.cursor/skills/innovate-together-il-infra
 ```
 
 ### Codex / Agent Skills path
@@ -48,6 +51,8 @@ ln -s "$(pwd)/skills/innovate-together-il-ai" ~/.cursor/skills/innovate-together
 mkdir -p /path/to/your-project/.agents/skills
 ln -s "$(pwd)/skills/innovate-together-il-ai" \
   /path/to/your-project/.agents/skills/innovate-together-il-ai
+ln -s "$(pwd)/skills/innovate-together-il-infra" \
+  /path/to/your-project/.agents/skills/innovate-together-il-infra
 ```
 
 ### Claude Code
@@ -55,6 +60,13 @@ ln -s "$(pwd)/skills/innovate-together-il-ai" \
 ```bash
 claude plugin marketplace add https://github.com/redhat-community-ai-tools/innovate-together-il-2026-ai
 claude plugin install innovate-together-il-ai
+```
+
+That plugin id stays `innovate-together-il-ai` and now includes both skills. The Infrastructure skill can also be symlinked beside it:
+
+```bash
+mkdir -p ~/.claude/skills
+ln -s "$(pwd)/skills/innovate-together-il-infra" ~/.claude/skills/innovate-together-il-infra
 ```
 
 ## How to use it
@@ -81,13 +93,18 @@ After install, ask in your agent chat. Short examples:
 
 > Using the Innovate Together IL AI skill, brief me on the harness-eval / agent harness safety talk: summary, takeaways, and how to try it afterward.
 
-The skill matches your context to talk notes under `skills/innovate-together-il-ai/references/` (project match, full-event brief, or session brief).
+**Infrastructure track — Virt / HA**
+
+> Using the Innovate Together IL Infra skill, we run OpenShift Virtualization on RWO storage. Which talks and operators should we adopt for node failure recovery and live migration?
+
+The skills match your context to talk notes under `skills/innovate-together-il-ai/references/` and `skills/innovate-together-il-infra/references/` (project match, full-event brief, or session brief).
 
 ## What’s inside
 
 | Path | Purpose |
 |------|---------|
-| `skills/innovate-together-il-ai/` | Agent skill + progressive-disclosure references |
+| `skills/innovate-together-il-ai/` | AI-track agent skill + references |
+| `skills/innovate-together-il-infra/` | Infrastructure-track agent skill + references |
 | `docs/` | Human agenda site (GitHub Pages) |
 | `TRUST.md` | Security / trust boundary |
 | `CONTRIBUTING.md` | Speaker opt-in, slides, and link updates |

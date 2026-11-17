@@ -6,6 +6,8 @@ Registration: https://reg.experiences.redhat.com/flow/redhat/4804050/rhexpressre
 
 Schedule and takeaways live in this pack (talk files under `talks/`). Skill users do **not** get private Drive decks — use outlines/takeaways in each talk `.md`. Organizers keep Drive + agenda-sheet URLs in local `host-notes/slides-drive-index.md` (gitignored).
 
+Infrastructure track skill (same repo): [innovate-together-il-infra](../../innovate-together-il-infra/SKILL.md).
+
 ## Morning (shared)
 
 | Time | Talk | Speakers | Reference |
