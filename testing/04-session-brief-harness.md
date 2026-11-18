@@ -22,7 +22,7 @@ Tags: `happy` `multi-mode`
   uvx harness-eval harness-security .
   uvx harness-eval harness-lint .
   ```
-- **Materials:** slides-pending
+- **Materials:** slides-in-pack (outline in the talk file; no downloadable deck in this repo)
 
 ## Evaluation
 
@@ -31,7 +31,7 @@ Tags: `happy` `multi-mode`
 | Correct mode | Pass | |
 | LinkedIn from speakers.md | Pass | |
 | Shape (new template) | Pass | |
-| Materials honesty | Pass | slides-pending; no invented claims |
+| Materials honesty | Pass | slides-in-pack; outline cited, no invented claims |
 
 **Verdict: good (pass)**
 

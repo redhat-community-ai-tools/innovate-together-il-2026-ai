@@ -1,8 +1,14 @@
-# Local skill eval (gitignored)
+# Local skill eval
 
-Manual / agent-assisted checks of `skills/innovate-together-il-ai/`.
+Manual / agent-assisted checks of both skills, plus a runnable structural smoke check.
 
-Listed in `.gitignore` so *new* local scratch stays private; the suite itself is force-added and tracked on GitLab. New scenario files: `git add -f testing/<file>`.
+New scenario files (gitignored by default): `git add -f testing/<file>`.
+
+## Runnable check
+
+```bash
+python3 testing/smoke_check.py
+```
 
 ## Tags
 
@@ -16,6 +22,8 @@ Listed in `.gitignore` so *new* local scratch stays private; the suite itself is
 
 ## Layout
 
+### AI skill
+
 | File | Tags | Mode |
 |------|------|------|
 | [01-project-gpu-cost.md](01-project-gpu-cost.md) | `happy` | Project match |
@@ -26,6 +34,15 @@ Listed in `.gitignore` so *new* local scratch stays private; the suite itself is
 | [06-project-confidential.md](06-project-confidential.md) | `happy` | Project match |
 | [07-anti-example-fail.md](07-anti-example-fail.md) | `anti-example` `stub-honesty` | Fail bar |
 | [08-session-packaging-framing.md](08-session-packaging-framing.md) | `happy` `multi-mode` `framing` | Session brief |
+
+### Infra skill
+
+| File | Tags | Mode |
+|------|------|------|
+| [09-infra-project-virt-ha.md](09-infra-project-virt-ha.md) | `happy` | Project match |
+| [10-infra-event-brief.md](10-infra-event-brief.md) | `happy` `multi-mode` | Event brief |
+| [11-infra-session-mcp-vms.md](11-infra-session-mcp-vms.md) | `happy` `multi-mode` | Session brief |
+| [12-infra-stub-ansible-pending.md](12-infra-stub-ansible-pending.md) | `stub-honesty` `multi-mode` | Session brief |
 
 Each file: **Question** → **Skill response** → **Evaluation** → **Live agent delta** (fill after a real Cursor/Claude/Codex run with the skill installed).
 

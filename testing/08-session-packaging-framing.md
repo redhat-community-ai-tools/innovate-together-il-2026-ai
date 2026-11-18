@@ -18,7 +18,7 @@ Tags: `happy` `multi-mode` `framing`
 - **Repos / docs:** OpenShift AI docs; Konflux; vLLM; Garak (context for what RH’s chain uses).
 - **Contribute:** public eval tooling feedback; what auditors need to see under “Validated” (sanitized).
 - **Try:** Map our approval questions to RH’s Validated chain; ask Red Hat where gaps remain — **not** “build a minimal ModelCar gate for our catalog.”
-- **Materials:** slides-pending
+- **Materials:** slides-in-pack (outline in the talk file; no downloadable deck in this repo)
 
 ## Evaluation
 
@@ -27,7 +27,7 @@ Tags: `happy` `multi-mode` `framing`
 | Correct mode | Pass | session brief |
 | RH-for-customers framing | Pass | not customer DIY pipeline workshop |
 | No DIY ModelCar “Try” | Pass | audit/map questions instead |
-| Materials honesty | Pass | slides-pending; no invented claims |
+| Materials honesty | Pass | slides-in-pack; RH-for-customers framing, no invented claims |
 
 **Verdict: good (pass)**
 

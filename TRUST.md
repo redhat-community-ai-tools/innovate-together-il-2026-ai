@@ -1,11 +1,11 @@
 # Trust & security
 
-This repository is a **markdown-only knowledge pack** for the Innovate Together Israel 2026 AI track. Read this before installing the skill in any coding agent.
+This repository is a **markdown-only knowledge pack** for Innovate Together Israel 2026 (AI and Infrastructure tracks). Read this before installing a skill in any coding agent.
 
 ## What this pack is
 
 - Public talk summaries, abstracts, product documentation links, and open-source repo links
-- An agent skill that helps match *your* project context to conference takeaways
+- Agent skills that help match *your* project context to conference takeaways
 - A human-readable GitHub Pages agenda for sharing with non-engineers
 
 ## What this pack is NOT
@@ -25,7 +25,7 @@ Do not install forks or third-party mirrors without reviewing the full diff. Pre
 
 ## Before you enable the skill
 
-1. Skim `skills/innovate-together-il-ai/` — especially `SKILL.md` and `references/`.
+1. Skim `skills/innovate-together-il-ai/` and/or `skills/innovate-together-il-infra/` — especially `SKILL.md` and `references/`.
 2. Confirm there are no `scripts/`, hook configs, or MCP manifests in this repo.
 3. Optionally scan with [harness-eval](https://github.com/redhat-community-ai-tools/harness-eval):
 

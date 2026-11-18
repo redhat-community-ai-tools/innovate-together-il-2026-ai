@@ -1,6 +1,6 @@
 {
   "name": "innovate-together-il-2026-ai",
-  "description": "Innovate Together Israel 2026 AI-track takeaway skill — match your project to talks, repos, and docs.",
+  "description": "Innovate Together Israel 2026 takeaway skills (AI + Infrastructure) — match your project to talks, repos, and docs.",
   "owner": {
     "name": "Hofni Gartner",
     "url": "https://github.com/HofniGartner"
@@ -10,8 +10,8 @@
     {
       "name": "innovate-together-il-ai",
       "source": "./",
-      "version": "0.1.0",
-      "description": "Markdown-only skill: map your environment to Innovate Together IL 2026 AI-track talks, open-source projects, contribution paths, and official Red Hat product documentation."
+      "version": "0.2.0",
+      "description": "Markdown-only skills: map your environment to Innovate Together IL 2026 AI and Infrastructure track talks, open-source projects, contribution paths, and official Red Hat product documentation."
     }
   ]
 }

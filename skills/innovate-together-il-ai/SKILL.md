@@ -13,6 +13,8 @@ description: >-
 
 Markdown-only conference takeaway skill. Read [TRUST.md](../../TRUST.md) if the user asks about security.
 
+Infrastructure track (same repo): [innovate-together-il-infra](../innovate-together-il-infra/SKILL.md).
+
 ## Modes
 
 Pick the mode from the request (ask once if ambiguous):
@@ -95,3 +97,4 @@ One concrete action they can take this week.
 - Agenda: [references/agenda.md](references/agenda.md)
 - Products: [references/products.md](references/products.md)
 - Speakers: [references/speakers.md](references/speakers.md)
+- Infra track skill: [../innovate-together-il-infra/SKILL.md](../innovate-together-il-infra/SKILL.md)
